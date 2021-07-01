@@ -3,7 +3,7 @@ import pandas as pd
 
 df = pd.read_csv('cf_norm_sim.csv')
 
-a = 0.2
+a = 0.1
 b = 0.4
 
 threshold_val = a
